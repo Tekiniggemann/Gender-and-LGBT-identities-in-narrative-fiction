@@ -3,7 +3,7 @@ An analysis based on reading data from the goodreads website, as a Midbootcamp p
 
 
 # Project description:
-for this project I try to look at the represence and rating of feminism, gender topics and sexual orientation diversity in fictional literature.
+for this project I try to look at the presence and rating of feminism, gender topics and sexual orientation diversity in fictional literature.
 To do this, I used the data provided by Lorena Casanova Lozano and Sergio Costa Planells in this repository: https://github.com/joluhergo/goodreads_bbe_dataset/tree/main/Docs_%26_Examples
 
 Used tools for this project: Jupyter Notebook, MySQL to clean, explore and prepare the data / public Tableau to to visually explore the results
